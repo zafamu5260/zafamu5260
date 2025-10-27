@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- 
-  <a href="https://github.com/zafamu5260/" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  
- <a href="https://www.instagram.com/zafamu5260/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+ <a href="https://github.com/zafamu5260/" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/zafamu5260/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 ## About Me
 
