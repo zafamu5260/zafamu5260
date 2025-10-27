@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-  <a href="https://github.com/zafamu5260" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/zafamu5260/" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   
  <a href="https://www.instagram.com/zafamu5260/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
@@ -45,9 +45,5 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center" width="100%">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=zahid&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
-
 
 
