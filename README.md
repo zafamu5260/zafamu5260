@@ -30,4 +30,4 @@ I am passionate about software development, algorithms, and exploring new techno
 
 ## Contact
 
-- 📧 Email: @gmail.com  
+- 📧 Email: zafamuocakdan@gmail.com  
