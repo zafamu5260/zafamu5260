@@ -9,6 +9,7 @@
 _Hello! I’m **Muhammed Zahid**, a software student at **Gümüşhane Üniversitesi / Software Engineering**.  
 I am passionate about software development, algorithms, and exploring new technologies._
 
+---
 
 ## 🧰 Languages and Tools
 
