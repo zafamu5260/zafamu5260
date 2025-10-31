@@ -2,7 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=zafamu5260&label=Profile+Views&color=brightgreen" alt="zafamu5260" />
 </p>
 
-# Hi 👋, I'm Muhammed Zahid
+<div align="center">
+  <img 
+    align="center" 
+    width="100%" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Hi,+I'm+Zahid" /> 
+</p>
+
+---
 
 ## About Me
 
@@ -20,13 +27,13 @@ I am passionate about software development, algorithms, and exploring new techno
 
 ## Goals
 
-- _Become a solid full-stack developer_
-- _Participate in real-world projects_  
-- _Contribute to open‐source communities_  
-- _Keep learning and staying updated with tech trends_
+ _Become a solid full-stack developer_
+ _Participate in real-world projects_  
+ _Contribute to open‐source communities_  
+ _Keep learning and staying updated with tech trends_
 
 ---
 
 ## Contact
 
-- 📧 Email: zafamuocakdan@gmail.com  
+📧 Email: zafamuocakdan@gmail.com  
